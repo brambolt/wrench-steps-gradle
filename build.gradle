@@ -48,7 +48,7 @@ dependencies {
   implementation "com.brambolt.gradle:brambolt-gradle-git:${version}"
   implementation "com.brambolt.gradle:brambolt-gradle-maven:${version}"
   implementation "com.brambolt.gradle:brambolt-gradle-rt:${version}"
-  implementation "com.brambolt.wrench:brambolt-wrench-runbooks-gradle:${version}"
+  implementation "com.brambolt.wrench:brambolt-wrench-runbooks:${version}"
   testImplementation "com.brambolt.gradle:brambolt-gradle-testkit:${version}"
 }
 

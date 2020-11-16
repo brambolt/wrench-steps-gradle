@@ -1,5 +1,7 @@
 package com.brambolt.wrench.steps
 
+import com.brambolt.wrench.runbooks.WithEnvironment
+import com.brambolt.wrench.runbooks.WithHost
 import com.brambolt.wrench.target.Host
 import org.gradle.api.DefaultTask
 import org.gradle.api.GradleException

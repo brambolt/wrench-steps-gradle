@@ -33,7 +33,7 @@ class InstallPublishedArchive extends DefaultTask {
 
   boolean expand = true
 
-  boolean preserve = false
+  boolean preserve = true
 
   List<String> inclusions = [ '**/*']
 
