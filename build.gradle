@@ -30,7 +30,7 @@ ext {
   ]]
   inceptionYear = '2017'
   isGitHosted = true
-  isOpenSource = false // Enables publishing to plugins.gradle.org and Bintray
+  isOpenSource = true // Enables publishing to plugins.gradle.org and Bintray
   licenses = [[
     id: 'Apache-2.0',
     name: 'The Apache Software License, Version 2.0',
