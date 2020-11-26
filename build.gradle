@@ -44,7 +44,6 @@ apply plugin: 'com.brambolt.gradle.build.library'
 
 dependencies {
   implementation "com.brambolt:brambolt-rt:${version}"
-  implementation "com.brambolt.gradle:brambolt-gradle-databases:${version}"
   implementation "com.brambolt.gradle:brambolt-gradle-git:${version}"
   implementation "com.brambolt.gradle:brambolt-gradle-maven:${version}"
   implementation "com.brambolt.gradle:brambolt-gradle-rt:${version}"
